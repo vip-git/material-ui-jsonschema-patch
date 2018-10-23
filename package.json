@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/material-ui/-/material-ui-1.0.0-beta.46.tgz",
+  "_resolved": "https://github.com/vip-git/material-ui-jsonschema-patch/archive/master.zip",
   "_spec": "1.0.0-beta.46",
   "_where": "/Users/vipinwork/htdocs/jsonschema-material-ui",
   "author": {
@@ -85,7 +85,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mui-org/material-ui.git"
+    "url": "git+https://github.com/vip-git/material-ui-jsonschema-patch.git"
   },
   "sideEffects": false,
   "version": "1.0.0-beta.46"
